@@ -1,4 +1,4 @@
-# Developing CBTI (Consumption Behavior Type Indicator) for Single-Person Households in Their 20s
+# 🛍️ Developing CBTI (Consumption Behavior Type Indicator) for Single-Person Households in Their 20s
 
 **Excellence Award (2nd Place), Statistics Korea Utilization Contest, Statistics Korea**  
 *August 2023*
@@ -65,7 +65,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-# 더 나은 20대 1인 가구 소비생활을 위한 CBTI(소비유형지표) 구축하기
+# 🛍️ 더 나은 20대 1인 가구 소비생활을 위한 CBTI(소비유형지표) 구축하기
 
 **우수상 (2등), 통계청 통계활용대회, 통계청**  
 *2023년 8월*
