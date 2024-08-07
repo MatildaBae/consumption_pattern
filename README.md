@@ -3,7 +3,7 @@
 **Excellence Award (2nd Place), Statistics Korea Utilization Contest, Statistics Korea**  
 *August 2023*
 
-## Overview
+## Overview 
 
 Welcome to the repository of the project "Developing CBTI (Consumption Behavior Type Indicator) for Single-Person Households in Their 20s". This project, awarded the Excellence Award (2nd Place) in the Statistics Korea Utilization Contest, focuses on analyzing the consumption patterns of youth using advanced clustering techniques.
 
